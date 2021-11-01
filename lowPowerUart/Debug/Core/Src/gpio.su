@@ -1,0 +1,2 @@
+gpio.c:31:6:disableGPIO	32	static
+gpio.c:84:6:MX_GPIO_Init	40	static

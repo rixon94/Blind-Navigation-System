@@ -1,0 +1,6 @@
+hc-sr04.c:25:6:deactiveAllSensors	8	static
+hc-sr04.c:33:7:distanceGet	24	static
+hc-sr04.c:40:6:sensorTrigerSet	16	static
+hc-sr04.c:72:6:sensorEchoSet	16	static
+hc-sr04.c:117:8:sensorGet	24	static
+hc-sr04.c:145:6:us_delay	16	static

@@ -1,0 +1,4 @@
+led.c:19:6:statusLED	8	static
+led.c:23:6:greenLED	16	static
+led.c:30:6:redLED	16	static
+led.c:37:6:alarmLed	8	static

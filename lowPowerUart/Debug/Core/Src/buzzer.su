@@ -1,0 +1,4 @@
+buzzer.c:18:6:Buzzer_1	16	static
+buzzer.c:26:6:Buzzer_2	16	static
+buzzer.c:33:6:Buzzer_3	16	static
+buzzer.c:41:6:alarmBuzzer	16	static
